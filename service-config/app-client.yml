@@ -1,6 +1,6 @@
 com:
   example:
-    apihost: app-server
+    apihost: http://localhost:8080/app-server
 
 eureka:
   client:

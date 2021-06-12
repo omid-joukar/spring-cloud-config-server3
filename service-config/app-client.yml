@@ -1,5 +1,6 @@
-server:
-  port: 8002
+com:
+  example:
+    apihost: app-server
 
 eureka:
   client:
